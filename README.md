@@ -20,5 +20,5 @@ I aim to refine my skills in programming and data analytics before ultimately mo
 When I'm not working on data, I am eagerly working to bring up the next generation of lady scientists 💪
 ### ✨ Other Skills
  - ⌛️ I am chronically early and intensely schedule driven
- - 🌶 My love for science spilled over into my love for cooking and baking long ago.
+ - 🌶 Cooking and baking, taking inspiration from the various places I travel
  - 🎼 Currently learning to play the ukulele
