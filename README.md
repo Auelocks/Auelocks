@@ -1,13 +1,13 @@
 ## 👋 Intro 
-Hi, I am Noelle Garza (aka goldielocks) a data analyst with a BS in chemical engineering and (soon) a certificate in data analytics and visualization from the University of Texas at Austin.  I've spent the majority of my career as as an engineer working in process engineering, technical sales, customer support and training for a diverse user base to run complex commercial process simulation tools.  
-I've spent the last 7 years working in commercial software where I developed my enthusiasm for technology and the critical role it plays in decision making, safely and efficiently.
+Hi, I am Noelle, a data analyst with a BS in chemical engineering and (soon) a certificate in data analytics and visualization from the University of Texas at Austin.  I've spent the majority of my career as as an engineer working in process engineering, technical sales, customer support and training for a diverse user base to run complex commercial process simulation tools.  For the last 7 years, I have focused on working in commercial software where I developed my enthusiasm for technology and the critical role it plays in decision making, safely and efficiently.
 
 I am currently working in data analytics, polishing my skills in 
 * Python
   * Pandas
   * matplotlib
-  * Numpy
-* SQL, PostgreSQL
+  * NumPy
+  * SQLalchemy
+* SQL, PostgreSQL, SQLite
 * JSON
 * Tableau
 
