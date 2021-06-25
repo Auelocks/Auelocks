@@ -8,6 +8,7 @@ I am currently working in data analytics, polishing my skills in
   * NumPy
   * SQLalchemy
 * SQL, PostgreSQL, SQLite
+* NoSQL, MongoDB
 * JSON
 * Tableau
 
